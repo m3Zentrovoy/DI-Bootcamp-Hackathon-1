@@ -1,4 +1,4 @@
-🕵️‍♂️ Credit Card Fraud Detection – Hackathon Project
+#🕵️‍♂️ Credit Card Fraud Detection – Hackathon Project
 
 This project was created as part of a Data Science Hackathon to detect fraudulent credit card transactions using real-world financial data. The main objective was to explore, preprocess, and model data in order to build an effective fraud detection system.
 
